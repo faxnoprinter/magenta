@@ -1,6 +1,6 @@
 # main text of home
-title: John Doe
-bio: A Person who travels the world eating noodles
+title: gaurav bhardwaj
+bio: Improv engineer duct-taping systems - dog-approved, mostly
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/profilepic1.jpg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -18,9 +18,9 @@ dark-theme: auto
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://drive.google.com/file/d/1cKt44t4DcylbhmTd_zu1rUWG5PmF_vBA/view?usp=sharing
 
-url: https://sergiokopplin.github.io/indigo
+url: https://faxnoprinter.github.io/magenta
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -31,29 +31,23 @@ permalink: /:title/
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: github # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  categories:  # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+# facebook: myfacebook
+twitter: bardgaurav
+instagram: whosaidgaurav
+# linkedin: myLinkedin
+github: faxnoprinter
+email: gaurav290802@gmail.com
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+  gaurav bhardwaj:
+    name: gaurav bhardwaj
+    bio: Improv engineer duct-taping systems - dog-approved, mostly
     external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    picture: assets/images/profilepic1.jpg
+    twitter: faxnoprinter
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
